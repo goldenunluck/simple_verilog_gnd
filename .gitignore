@@ -1,0 +1,6 @@
+# Ignore Icarus Verilog compiled simulation binaries
+design_simple_gnd
+
+# Ignore GTKWave waveform databases
+*.vcd
+*.log
